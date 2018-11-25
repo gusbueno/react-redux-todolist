@@ -1,0 +1,26 @@
+{
+  "name": "react-redux-todolist",
+  "version": "1.0.0",
+  "description": "React Redux Todo list",
+  "main": "index.js",
+  "repository": "https://github.com/gusbueno/react-redux-todolist.git",
+  "author": "Gustavo Bueno <gustavo.bueno89@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "react": "^16.6.3",
+    "react-redux": "^5.1.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.1.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1",
+    "webpack": "^4.26.0",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  }
+}
